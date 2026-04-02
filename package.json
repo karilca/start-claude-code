@@ -45,7 +45,7 @@
     "ajv": "latest",
     "asciichart": "latest",
     "auto-bind": "latest",
-    "axios": "latest",
+    "axios": "1.13.5",
     "bidi-js": "latest",
     "cacache": "^20.0.4",
     "chalk": "latest",
